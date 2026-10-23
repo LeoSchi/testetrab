@@ -1,0 +1,5 @@
+Coloque aqui as fotos dos pontos turisticos com estes nomes exatos:
+jardim-botanico.jpg, opera-de-arame.jpg, museu-oscar-niemeyer.jpg, parque-barigui.jpg,
+rua-xv.jpg, largo-da-ordem.jpg, mercado-municipal.jpg, linha-turismo.jpg
+Enquanto uma foto nao existir, o site mostra uma ilustracao no lugar.
+Use apenas fotos suas, de dominio publico ou com licenca livre (ex.: Wikimedia Commons).
